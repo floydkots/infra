@@ -7,3 +7,12 @@
 
 # .tfvars files
 *.tfvars
+
+# Local credentials directories
+**/credentials/*
+
+# Local directories
+**/locals/*
+
+# VS Code files
+**/.vscode/*
